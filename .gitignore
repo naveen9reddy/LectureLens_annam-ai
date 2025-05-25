@@ -1,3 +1,4 @@
+# Ignore uploads and virtual env
 uploads/
 *.mp4
 venv*/
