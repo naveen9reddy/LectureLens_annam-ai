@@ -1,3 +1,5 @@
 uploads/
-venv*/
 *.mp4
+venv*/
+__pycache__/
+*.pyc
